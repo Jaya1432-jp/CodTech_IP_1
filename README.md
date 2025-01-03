@@ -2,7 +2,8 @@
 *COMPANY:* CODTECH IT SOLUTIONS  
 *ID:* CT08DS526  
 *DOMAIN:* Cyber Security and Ethical Hacking  
-*DURATION:* December 2024 to January 2025  ## **Task 1: File Integrity Checker**
+*DURATION:* December 2024 to January 2025  
+## **Task 1: File Integrity Checker**
 
 ### **Description**
 A Python-based tool that calculates and compares hash values of files to monitor changes and ensure file integrity. 
