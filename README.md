@@ -37,5 +37,3 @@ python file_integrity_checker.py --store "my_folder" --output "hashes.txt"
 python file_integrity_checker.py --compare "my_folder" --hashfile "hashes.txt"
 ```
 
----
-# CodTech_IP_1
